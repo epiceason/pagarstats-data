@@ -1,0 +1,17 @@
+{
+    "spotify.exe": {
+        "name": "Spotify",
+        "icon": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_White.png",
+        "app_id": "misc_spotify"
+    },
+    "notepad.exe": {
+        "name": "Notepad",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/07/Notepad_Win11.svg",
+        "app_id": "misc_notepad"
+    },
+    "valorant.exe": {
+        "name": "Valorant",
+        "icon": "https://img.icons8.com/color/512/valorant.png",
+        "app_id": "game_valorant"
+    },
+}
